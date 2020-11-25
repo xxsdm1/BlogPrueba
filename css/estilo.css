@@ -1,4 +1,9 @@
 body{
     text-align: center;
+    color: brown;
     font-family: "Arial";
+}
+.aloja{
+    color: chartreuse;
+    font-size: 40px;
 }
